@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# react-redux-counter
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -81,4 +78,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
->>>>>>> 0169b71b5d0b714058fe5bf530871b7637e4905a
