@@ -18,6 +18,7 @@ npm install redux react-redux
 - dispatch 
 
 
+`
     import {createStore} from 'redux'
 
     //actions 
@@ -45,7 +46,7 @@ npm install redux react-redux
     store.subscribe(() => console.log(store.getState()))
     //dispacth 
     store.dispatch(increament());
-
+`
 
 
 ### `npm start`
